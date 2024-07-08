@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "961923631685",
+    "firebase_url": "https://social-media-fb630-default-rtdb.firebaseio.com",
+    "project_id": "social-media-fb630",
+    "storage_bucket": "social-media-fb630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961923631685:android:f796c4d55bedfe4686b12c",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961923631685-brjl7n28obbnot1ic0b79rpmrjb1gbb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5dImKT1zrIvmpGOAWMxoovWcnSxGLGTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961923631685-brjl7n28obbnot1ic0b79rpmrjb1gbb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961923631685-kusa39mabbu859cb4uh6s6pf14lutk80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialMedia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
